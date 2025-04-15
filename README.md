@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://link-do-logo.png" width="200" alt="TeamMK logo">
+<img src="https://i.imgur.com/VoSvdfG.png" width="200" alt="TeamMK logo">
+
 </p>
 
 <h1 align="center" style="color: #1e3a8a;">TeamMK | Discord Server Info</h1>
@@ -31,7 +32,3 @@
 | `news/`        | 📰 Aktualizacje i eventy |
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TEAMMK-Marcelowy%20MK-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</p>
