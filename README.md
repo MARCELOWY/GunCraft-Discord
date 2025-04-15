@@ -8,12 +8,13 @@ Tutaj znajdziesz:
 - 🛠 Plany rozwoju serwera
 - ⚠ Zasady i regulaminy (opcjonalnie)
 
-## 📁 Struktura
+## 📁 Nasze Panele
 
-- `changelog.md` – pełna historia zmian
-- `news/` – szczegółowe informacje o aktualizacjach i eventach
-- `roadmap.md` – nasze plany na przyszłość
-- `rules.md` – zasady serwera
+[📝 Zobacz changelog](./changelog.md)  
+[📰 Nowości i eventy](./news/)  
+🗺 [Plany na przyszłość](./roadmap.md)  
+📜 [Zasady serwera](./rules.md)
+
 
 ## 🤝 Autorzy
 
