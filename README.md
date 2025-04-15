@@ -33,5 +33,5 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TEAMMK-GRANATOWY%20STYL-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/TEAMMK-Marcelowy%20MK-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
