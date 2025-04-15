@@ -14,8 +14,8 @@
 
 ## 🔗 Linki
 
-- 🌐 [Kanał YouTube](https://youtube.com/@TwojKanal)  
-- 💬 [Dołącz do Discorda](https://discord.gg/link)  
+- 🌐 [Kanał YouTube](https://www.youtube.com/@MarcelowyMK)  
+- 💬 [Dołącz do Discorda](https://discord.gg/gN55webBs4)  
 - 📜 [Regulamin](./rules.md)  
 - 📝 [Changelog](./changelog.md)  
 - 🗺 [Roadmap](./roadmap.md)
