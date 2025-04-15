@@ -1,13 +1,19 @@
 # 📜 Changelog
 
-## [2025-04-15]
-- Dodano nowe kanały: 🎮│gry, 🎤│voice-eventy
-- Zmieniono ikonę serwera
-- Poprawiono rolę „Weteran”
+Wszystkie zmiany i aktualizacje dotyczące serwera TeamMK są zapisywane tutaj.
 
-## [2025-04-10]
-- Uruchomiono nowy system rang oparty o aktywność
-- Dodano bota muzycznego
+---
+
+## [1.0.0] - 2025-04-15
+### 🔧 Przygotowanie serwera pod zmiany
+- Utworzenie repozytorium informacyjnego na GitHub
+- Dodanie struktury plików: `rules.md`, `changelog.md`, `roadmap.md`, `news/`
+- Wgranie logo i rozpoczęcie prac nad stylem README
+- Ustalenie granatowego stylu wizualnego TeamMK
+
+---
+
+*Śledź kolejne zmiany, aby być na bieżąco!*
 
 <p>
   <a href="./changelog.md"><img src="https://img.shields.io/badge/📝 Changelog-blue?style=for-the-badge" /></a>
