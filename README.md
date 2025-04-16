@@ -16,7 +16,7 @@
 
 - 🌐 [Kanał YouTube](https://www.youtube.com/@MarcelowyMK)  
 - 💬 [Dołącz do Discorda](https://discord.gg/gN55webBs4)  
-- 📜 [Regulamin](./rules.md)  
+- 📜 [Regulamin](./rules.md)
 - 📝 [Changelog](./changelog.md)  
 - 🗺 [Roadmap](./roadmap.md)
 
